@@ -17,11 +17,11 @@ fn main() {
     }
 
     loop {
-        println!("Current Tasks:");
+        println!("Current Tasks:\n+---+---+---+---+---+");
         for (i, task) in tasks.iter().enumerate() {
             println!("{}: {}", i, task);
         }
-        println!("Enter a command: add, remove, or quit");
+        println!("\nEnter a command: add, remove, or quit");
 
         let mut command = String::new();
         io::stdin()
@@ -36,7 +36,7 @@ fn main() {
                     .read_line(&mut task)
                     .expect("Failed to read line");
                 tasks.push(task.trim().to_string());
-                println!("Task added.");
+                println!("Task added.\n");
             }
             "remove" => {
                 println!("Enter the index of the task to remove:");
@@ -50,7 +50,7 @@ fn main() {
                 };
                 if index < tasks.len() {
                     tasks.remove(index);
-                    println!("Task removed.");
+                    println!("Task removed.\n");
                 } else {
                     println!("Invalid index.");
                 }
