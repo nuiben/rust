@@ -1,7 +1,6 @@
 # Rust Portfolio Projects
 
-This is a collection of Rust projects that I have worked on to showcase my skills as a Rust developer. 
-Feel free to browse the projects and provide feedback.
+This is a collection of Rust projects that I have worked on to showcase my skills as a Rust developer. Feel free to browse the projects and provide feedback.
 
 ## Projects
 
