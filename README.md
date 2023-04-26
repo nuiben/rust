@@ -8,7 +8,7 @@ This is a collection of Rust projects that I have worked on to showcase my skill
 
 A basic To-do list that saves to-do tasks to a .txt file.
 
-### [Database Project](https://github.com/rust)
+### [Database Project](https://github.com/nuiben/rust/tree/main/game_list)
 
 A game backlog database project utilizing MongoDB.
 
