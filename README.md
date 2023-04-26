@@ -10,7 +10,7 @@ A basic To-do list that saves to-do tasks to a .txt file.
 
 ### [Database Project](https://github.com/nuiben/rust/tree/main/game_list)
 
-A game backlog database project utilizing MongoDB.
+A place to store all the games and mods you have on your backlog. This database project utilizes MongoDB.
 
 ## Contributing
 
