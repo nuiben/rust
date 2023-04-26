@@ -4,17 +4,13 @@ This is a collection of Rust projects that I have worked on to showcase my skill
 
 ## Projects
 
-### [Project 1 Name](https://github.com/username/project1)
+### [To-do List](https://github.com/nuiben/todo)
 
-Brief description of the project.
+A basic To-do list that saves to-do tasks to a .txt file.
 
-### [Project 2 Name](https://github.com/username/project2)
+### [Database Project](https://github.com/rust)
 
-Brief description of the project.
-
-### [Project 3 Name](https://github.com/username/project3)
-
-Brief description of the project.
+A game backlog database project utilizing MongoDB.
 
 ## Contributing
 
