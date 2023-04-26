@@ -4,7 +4,7 @@ This is a collection of Rust projects that I have worked on to showcase my skill
 
 ## Projects
 
-### [To-do List](https://github.com/nuiben/todo)
+### [To-do List](https://github.com/nuiben/rust/tree/main/todo)
 
 A basic To-do list that saves to-do tasks to a .txt file.
 
