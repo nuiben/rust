@@ -12,6 +12,10 @@ A basic To-do list that saves to-do tasks to a .txt file.
 
 A place to store all the games and mods you have on your backlog. This database project utilizes MongoDB.
 
+### [Daily Projects]()
+
+A repository of quick project ideas to experiment with and apply the tools I am currently learning in Rust.
+
 ## Contributing
 
 If you would like to contribute to any of the projects, feel free to submit a pull request with your changes. Bug reports and feature requests are also welcome.
