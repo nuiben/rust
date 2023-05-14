@@ -14,7 +14,7 @@ A place to store all the games and mods you have on your backlog. This database 
 
 ### [Database Project](https://github.com/nuiben/rust/tree/main/dbfs)
 
-This project aims to implement a database written in Rust solidify knowledge of database concepts.
+This project aims to implement a database written in Rust to solidify knowledge of database concepts.
 
 ### [Daily Projects](https://github.com/nuiben/rust/tree/main/daily_projects)
 
